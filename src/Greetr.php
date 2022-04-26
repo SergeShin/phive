@@ -1,11 +1,11 @@
 <?php
 
-namespace VideoSlots\Phive;
+namespace VideoslotsPhive;
 
 class Greetr
 {
     public function greet(string $name)
     {
-        return "Hi {$name}! How are you doing today?";
+        return "Hi {$name}! How are you 2doing to1day?";
     }
 }

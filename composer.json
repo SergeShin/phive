@@ -2,7 +2,7 @@
     "name": "sergeshin/phive",
     "autoload": {
         "psr-4": {
-            "Videoslots\\Phive\\": "src/"
+            "VideoslotsPhive\\": "src/"
         }
     },
     "authors": [
