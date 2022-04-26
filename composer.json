@@ -1,0 +1,15 @@
+{
+    "name": "sergeshin/phive",
+    "autoload": {
+        "psr-4": {
+            "Videoslots\\Phive\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Serhii Shynkarenko",
+            "email": "serhii.shynkarenko@videoslots.com"
+        }
+    ],
+    "require": {}
+}
